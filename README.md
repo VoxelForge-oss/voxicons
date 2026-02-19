@@ -19,17 +19,21 @@ Use them freely in your projects, embed in your site, mod page, or documentation
 
 ## 📦 How to Use
 
+### Go to [the web site](https://voxelforge-oss.github.io/voxicons/)
+
 ### 1. Copy URL
 Simply click the **Copy URL** button next to the badge or icon you want to use.
 
 ### 2. Embed in HTML
 ```html
-<img src="https://voxelforge-oss.github.io/voxicons/icons/fabric.png" alt="Fabric">
+<img src="![https://voxelforge-oss.github.ioFabric](/voxicons/voxicons/badges/fabric.png)" alt="Fabric">
 ```
 ### 2. Embed in MARKDOWN
 ```md
-![Fabric](https://voxelforge-oss.github.io/voxicons/icons/fabric.png)
+![Fabric](![https://voxelforge-oss.github.ioFabric](/voxicons/voxicons/badges/fabric.png))
 ```
+ex. 
+![Fabric](https://voxelforge-oss.github.io/voxicons/voxicons/badges/fabric.png)
 
 ### 3. Generate a Badge with a Link
 
@@ -59,3 +63,16 @@ Voxicons is free to use in any project, including commercial.
 
 See LICENSE.txt for full details.
 
+### Links
+
+[Voxicons](https://voxelforge-oss.github.io/voxicons/)
+
+--- 
+
+[Voxel Forge Studios](https://voxelforgestudios.com)
+
+---
+
+Voxicons is an independent project and is not affiliated with, endorsed by, or sponsored by Mojang AB or Microsoft.
+
+Minecraft is a trademark of Mojang AB.
