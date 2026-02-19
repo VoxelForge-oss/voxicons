@@ -1,0 +1,12 @@
+VOXICONS ASSET LICENSE
+
+Copyright (c) 2026 Voxel Forge
+
+Permission is granted to use these assets (images, badges, logos) freely in your own projects, including commercial and non-commercial works, provided they are embedded directly in your project. 
+
+You MAY NOT:
+- Redistribute the original files as-is (e.g., in asset packs, repositories, or downloads)
+- Sell or sublicense the assets
+- Claim the assets as your own
+
+Attribution to Voxicons (https://github.com/voxel-forge/voxicons) is appreciated but not required.
