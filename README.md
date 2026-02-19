@@ -33,7 +33,7 @@ Simply click the **Copy URL** button next to the badge or icon you want to use.
 ![Fabric](![https://voxelforge-oss.github.ioFabric](/voxicons/voxicons/badges/fabric.png))
 ```
 ex. 
-![Fabric](![https://voxelforge-oss.github.ioFabric](/voxicons/voxicons/badges/fabric.png))
+![https://voxelforge-oss.github.ioOrange Heart](/voxicons/voxicons/icons-64/icons/orange-heart.png)
 
 ### 3. Generate a Badge with a Link
 
